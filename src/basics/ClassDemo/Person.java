@@ -1,4 +1,4 @@
-package basics.ObjectDemo;
+package basics.ClassDemo;
 
 /// [Person] class
 public class Person {

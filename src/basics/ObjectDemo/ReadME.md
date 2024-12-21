@@ -4,10 +4,8 @@ In OOP, objects are things created from classes that have data (attributes) and 
 
 # Code Explanation
 
-Here we created a __Person__ class that contains some attributes like __name__ (___String___) and __age__ (___int___). This class also contains some methods like  We can access this class by creating the instance of __Person__ class in the __main__ class. This instance is known as Object.
+Here, we created a `Person` class with attributes like `name` (a `String`) and `age` (an `int`). It also includes methods. To use this class, we create an instance of `Person` class in the `main` class. This instance is called an `Object`.
 
-```
-
-Person person1 = new Person("Alice", 25);
-
+``` java
+Person person = new Person("Alice", 25);
 ```
