@@ -2,7 +2,7 @@ package basics.ObjectDemo;
 
 public class ObjectDemo {
     public static void main(String[] args) {
-        // Creating objects
+        // Creating objects of Person class
         Person person1 = new Person("Alice", 25);
         Person person2 = new Person("Bob", 30);
 
