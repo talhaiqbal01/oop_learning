@@ -1,10 +1,10 @@
 # Object-oriented Programming
 
 ## Basic Concepts
-### 1. Object
-### 2. Class
-### 3. Attributes (Fields/Properties)
-### 4. Methods
+### 1. Class
+### 2. Attributes (Fields/Properties)
+### 3. Methods
+### 4. Object
 ### 5. Encapsulation
 ### 6. Abstraction
 ### 7. Inheritance

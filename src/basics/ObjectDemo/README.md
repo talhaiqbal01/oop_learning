@@ -1,6 +1,6 @@
 # Object
 
-In OOP, objects are things created from classes that have data (attributes) and actions (methods).
+In OOP, `Objects` are things created from classes that have data (attributes) and actions (methods).
 
 # Code Explanation
 

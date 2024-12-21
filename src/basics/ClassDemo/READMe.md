@@ -1,6 +1,6 @@
 # Class
 
-In OOP, a class is a blueprint for creating objects, defining their data (attributes) and actions (methods).
+In OOP, a `Class` is a blueprint for creating objects, defining their data (attributes) and actions (methods).
 
 # Code Explanation
 
@@ -8,8 +8,8 @@ Here, we defined a `Person` class with attributes like `name` (a `String`) and `
 
 ```java
 class Person {
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     Person(String name, int age) {
         this.name = name;
